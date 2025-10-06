@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats
 
-![Sebasthian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasthianssl&show_icons=true&theme=radical)
+![Sebasthian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebasthianssl369&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasthianssl&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasthianssl369&layout=compact&theme=radical)
 
 ---
 
@@ -52,7 +52,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasthianssl369@gmail.com)
 
 ---
-
 
 ## 🔥 Featured Projects
 
